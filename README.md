@@ -1,6 +1,6 @@
 # REGEX
 
-O Regex é comumente utilizado para validação de itens em diversas linguagens. Neste respositório você encontrará um exemplo simples em JavaScript, com exemplos de:
+O Regex é comumente utilizado para validação de itens em diversas linguagens. Neste repositório você encontrará um exemplo simples em JavaScript, com exemplos de:
 
  - Validação de e-mail 
  - Validação de IPV4 
@@ -18,6 +18,7 @@ O Regex é comumente utilizado para validação de itens em diversas linguagens.
 [^] -> Conjunto -> Conjunto de caracteres proibidos
 
 
+
 **MetaCaracteres - Quantificadores**
 
 ? -> Opcional -> Zero ou um
@@ -29,6 +30,7 @@ O Regex é comumente utilizado para validação de itens em diversas linguagens.
 {n,m} -> Chaves -> De n até m
 
 
+
 **MetaCaracteres - Âncoras**
 
 ^ -> Circunflexo -> Início de linha
@@ -36,6 +38,7 @@ O Regex é comumente utilizado para validação de itens em diversas linguagens.
 $ -> Cifrão -> Fim de linha
 
 \b -> Borda -> Início ou fim de palavra
+
 
 
 **MetaCaracteres - Outros**
